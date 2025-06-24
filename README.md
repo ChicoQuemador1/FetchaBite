@@ -1,15 +1,15 @@
 <h1 align="center"> Fetch a Bite </h1>
  
 <p align="center">
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/logo.png?raw=true" width="600" alt="Fetch-a-Bite Logo" />
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/logo.png?raw=true" width="600" alt="Fetch-a-Bite Logo" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChicoQuemador1/Fetch-a-Bite/stargazers">
-    <img src="https://img.shields.io/github/stars/ChicoQuemador1/Fetch-a-Bite?color=yellow" alt="Stars Badge"/>
+  <a href="https://github.com/ChicoQuemador1/FetchaBite/stargazers">
+    <img src="https://img.shields.io/github/stars/ChicoQuemador1/FetchaBite?color=yellow" alt="Stars Badge"/>
   </a>
-  <a href="https://github.com/ChicoQuemador1/Fetch-a-Bite">
-    <img src="https://img.shields.io/github/repo-size/ChicoQuemador1/Fetch-a-Bite?color=ff69b4" alt="Repo Size Badge"/>
+  <a href="https://github.com/ChicoQuemador1/FetchaBite">
+    <img src="https://img.shields.io/github/repo-size/ChicoQuemador1/FetchaBite?color=ff69b4" alt="Repo Size Badge"/>
   </a>
   <br>
   <a href="https://swift.org/">
@@ -32,24 +32,24 @@
 ## Screenshots:
 
 <p align="center">
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/01.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/02.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/03.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/01.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/02.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/03.png" width="240"/>
 </p>
 <p align="center">
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/04.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/05.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/06.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/04.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/05.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/06.png" width="240"/>
 </p>
 <p align="center">
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/07.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/08.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/09.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/07.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/08.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/09.png" width="240"/>
 </p>
 <p align="center">
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/10.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/11.png" width="240"/>
-  <img src="https://github.com/ChicoQuemador1/Fetch-a-Bite/blob/main/Other/AppScreens/12.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/10.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/11.png" width="240"/>
+  <img src="https://github.com/ChicoQuemador1/FetchaBite/blob/main/Other/AppScreens/12.png" width="240"/>
 </p>
 
 ---
